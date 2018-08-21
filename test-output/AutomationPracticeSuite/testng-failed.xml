@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutomationPracticeSuite]">
+  <test name="AutomationPacticeTest(failed)">
+    <classes>
+      <class name="RegisterPackage.Register">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="register"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- RegisterPackage.Register -->
+      <class name="RegisterPackage.Login">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- RegisterPackage.Login -->
+    </classes>
+  </test> <!-- AutomationPacticeTest(failed) -->
+</suite> <!-- Failed suite [AutomationPracticeSuite] -->
