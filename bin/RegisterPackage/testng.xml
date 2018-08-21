@@ -1,0 +1,15 @@
+<suite name="AutomationPracticeSuite" >
+
+<test name="AutomationPacticeTest" >
+
+<classes>
+
+<class name="RegisterPackage.Register" />
+<class name="RegisterPackage.Login" />
+<class name="RegisterPackage.Contactus" />
+</classes>
+
+
+</test>
+
+</suite>

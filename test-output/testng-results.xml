@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AutomationPracticeSuite" duration-ms="103441" started-at="2018-08-06T18:05:34Z" finished-at="2018-08-06T18:07:18Z">
+    <groups>
+    </groups>
+    <test name="AutomationPacticeTest" duration-ms="103441" started-at="2018-08-06T18:05:34Z" finished-at="2018-08-06T18:07:18Z">
+      <class name="RegisterPackage.Contactus">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:RegisterPackage.Contactus@c87b21]" name="beforeClass" is-config="true" duration-ms="18879" started-at="2018-08-06T23:36:47Z" finished-at="2018-08-06T23:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="login()[pri:1, instance:RegisterPackage.Contactus@c87b21]" name="login" duration-ms="6834" started-at="2018-08-06T23:37:06Z" finished-at="2018-08-06T23:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="contactus()[pri:2, instance:RegisterPackage.Contactus@c87b21]" name="contactus" duration-ms="4487" started-at="2018-08-06T23:37:13Z" finished-at="2018-08-06T23:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+        <test-method status="PASS" signature="after()[pri:0, instance:RegisterPackage.Contactus@c87b21]" name="after" is-config="true" duration-ms="180" started-at="2018-08-06T23:37:18Z" finished-at="2018-08-06T23:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- RegisterPackage.Contactus -->
+      <class name="RegisterPackage.Login">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:RegisterPackage.Login@178f375]" name="beforeClass" is-config="true" duration-ms="20007" started-at="2018-08-06T23:36:21Z" finished-at="2018-08-06T23:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="login()[pri:0, instance:RegisterPackage.Login@178f375]" name="login" duration-ms="6229" started-at="2018-08-06T23:36:41Z" finished-at="2018-08-06T23:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- RegisterPackage.Login -->
+      <class name="RegisterPackage.Register">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:RegisterPackage.Register@c7a4e4]" name="beforeClass" is-config="true" duration-ms="32348" started-at="2018-08-06T23:35:34Z" finished-at="2018-08-06T23:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="main()[pri:0, instance:RegisterPackage.Register@c7a4e4]" name="main" duration-ms="2946" started-at="2018-08-06T23:36:07Z" finished-at="2018-08-06T23:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="register()[pri:0, instance:RegisterPackage.Register@c7a4e4]" name="register" duration-ms="11484" started-at="2018-08-06T23:36:10Z" finished-at="2018-08-06T23:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- RegisterPackage.Register -->
+    </test> <!-- AutomationPacticeTest -->
+  </suite> <!-- AutomationPracticeSuite -->
+</testng-results>
